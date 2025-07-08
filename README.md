@@ -15,16 +15,8 @@
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<!-- Pixel Art Section -->
+</div>
+
 <div align="center">
-
-<!-- Mario -->
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mario.svg" width="60" alt="Mario" />
-
-<!-- Koopa (Turtle) -->
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/koopa.svg" width="60" alt="Koopa Turtle" />
-
-<!-- Coin -->
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/coin.svg" width="40" alt="Coin" />
-
+  <img src="https://github.com/mantumera/mantumera/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
