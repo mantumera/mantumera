@@ -21,6 +21,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mantumera&style=for-the-badge&color=6a53e0)
+![Profile Views](https://komarev.com/ghpvc/?username=mantumera&style=for-the-badge&color=6a53e0&abbreviated=true)
 
 </div>
